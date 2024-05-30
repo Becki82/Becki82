@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Becki82
-- 👀 I’m interested in reading, languages, cultures, mythologies and my dogs.
-- 🌱 I’m currently learning front end web development for a new challenge and to change my career path 
-- 💞️ I’m looking to collaborate on anything to get me on my way
+- 🌱 I'm a front end web developer looking to progress and challenge myself
+
 
 
 <!---
